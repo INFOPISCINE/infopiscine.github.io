@@ -33,19 +33,27 @@ padding-top: 100px;
 }
 
 
-.like__btn {
-  align-items: center;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  text-align: center;
-  padding: 10px 15px;
-  background: #0080ff;
-  font-size: 18px;
-  font-family: "Open Sans", sans-serif;
-  border-radius: 5px;
-  color: #e8efff;
-  outline: none;
-  border: none;
-  cursor: pointer;
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+p{
+    display: center;
+    margin: 5px;
+}
+
+#time{
+    font-size: 40px;
+    color: black;
+}
+
+#day{
+    font-size: 25px;
+    color: #FF5757;
+}
+
+#date{
+    font-size:17px;
+    color: #FF5757;
+}
+div{
+    font-family: 'Arial', cursive;
 }
