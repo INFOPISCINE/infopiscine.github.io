@@ -41,18 +41,18 @@ p{
 }
 
 #time{
-    font-size: 40px;
-    color: black;
+    font-size: 17px;
+    color: white;
 }
 
 #day{
-    font-size: 25px;
-    color: #FF5757;
+    font-size: 17px;
+    color: #white;
 }
 
 #date{
     font-size:17px;
-    color: #FF5757;
+    color: #white;
 }
 div{
     font-family: 'Arial', cursive;
