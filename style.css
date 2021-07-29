@@ -57,3 +57,10 @@ p{
 div{
     font-family: 'Arial', cursive;
 }
+
+h1{
+  color:white;
+  font-family: "montserrat" ,arial ,sans-serif;
+  text-align: center;
+  text-decoration: underline;
+}
