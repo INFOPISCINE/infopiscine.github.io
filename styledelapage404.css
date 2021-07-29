@@ -7,6 +7,7 @@ body{
 }
 
 .container{
+  cursor: default;
   width: 100%;
   position: absolute;
   top: 50%;
@@ -16,6 +17,7 @@ body{
 }
 
 .container h1{
+  cursor:default;
   font-size: 160px;
   margin: 0;
   font-weight: 900;
@@ -30,7 +32,7 @@ body{
   border-radius: 20px
 }
 
-.container a hover{
+.container a:hover{
   text-decoration: none;
   background: black;
   color: #fff;
