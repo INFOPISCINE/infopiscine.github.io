@@ -1,0 +1,8 @@
+p{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(125deg,yellow,red);
+}
